@@ -10,7 +10,7 @@ To add it in, simply copy the `total.sh` file into the `~/` directory. Next, add
 alias total="bash ~/total.sh"
 ```
 
-Into the `.bashrc`. This assumes that `git` and `bash` are installed on your computer.
+Into the `.bashrc`. This assumes that `git` and `bash` are installed on your computer. As of now only supports Linux.
 
 ## Using
 
